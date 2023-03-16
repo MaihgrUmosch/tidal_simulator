@@ -1,0 +1,2 @@
+meshOptions_fine: fine mesh options ~0.1 mile
+meshOptions_test_A: mesh option for north sea example 1<50 miles

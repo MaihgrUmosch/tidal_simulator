@@ -1,0 +1,4 @@
+distMin     0.2
+distMax     2
+sizeMin     0.08
+sizeMax     0.2
